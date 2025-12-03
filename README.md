@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://github.com/Nalesnior/theme-architect-VSCode-extension/tree/main">
-    <img src="https://img.shields.io/badge/Github-repo-blue?style=flat" alt="Repo">
+  <a href="https://marketplace.visualstudio.com/items?itemName=Nalesnior.theme-architect">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Marketplace-instalation-blue?style=flat&logo=visual-studio-code" alt="Install form Marketplace">
   </a>
 
   <a href="https://github.com/Nalesnior/theme-architect-VSCode-extension/tree/main">
-    <img src="https://img.shields.io/badge/version-1.0.3-green?style=flat" alt="Version">
+    <img src="https://img.shields.io/badge/version-1.0.2-green?style=flat" alt="Version">
   </a>
 
   <a href="https://opensource.org/license/mit">
@@ -28,6 +28,3 @@ Dynamic Theme allows you to customize specific parts of the VS Code interface (b
 2. Go to **Settings** (`Ctrl+,` / `Cmd+,`).
 3. Search for `Theme Archetict`.
 4. Pick a color for any element (e.g., set `dynamicTheme.ActivityBar.activityBarbackground` to `#ff0000`).
-
-### example
-![](example.gif)
